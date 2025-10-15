@@ -31,11 +31,11 @@ export const HospitalCard = ({
 }: HospitalCardProps) => {
   return (
     <Card
-      className="group hover:shadow-2xl transition-all duration-300 overflow-hidden border-border/50 hover:border-primary/30 animate-fade-in-up"
+      className="group hover:shadow-2xl transition-all duration-300 overflow-hidden border-border/30 hover:border-primary/30 animate-fade-in-up bg-white/50 dark:bg-gray-900/50 backdrop-blur-lg"
       style={{ animationDelay: `${0.1 * (index % 6)}s` }}
     >
       {/* Hospital Image */}
-      <div className="relative h-48 overflow-hidden bg-muted">
+      <div className="relative h-48 overflow-hidden bg-muted/50 backdrop-blur-sm">
         <img
           src={getHospitalImage(hospital.id)}
           alt={hospital.name}

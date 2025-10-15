@@ -140,7 +140,7 @@ export default function SearchPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-primary/5 to-background">
       {/* Header */}
-      <header className="border-b border-border/50 bg-card/80 backdrop-blur-md shadow-sm sticky top-0 z-50">
+      <header className="border-b border-border/30 bg-white/60 dark:bg-gray-900/60 backdrop-blur-xl shadow-sm sticky top-0 z-50">
         <div className="container mx-auto flex items-center justify-between px-4 py-4">
           <Link to="/" className="flex items-center gap-2 group">
             <div className="relative">
@@ -185,7 +185,7 @@ export default function SearchPage() {
 
         {/* Search Filters */}
         <Card
-          className="mb-8 animate-fade-in shadow-xl border-border/50 overflow-hidden relative"
+          className="mb-8 animate-fade-in shadow-2xl border-border/30 overflow-hidden relative bg-white/40 dark:bg-gray-900/40 backdrop-blur-xl"
           style={{ animationDelay: "0.1s" }}
         >
           {/* Decorative background */}
@@ -211,7 +211,7 @@ export default function SearchPage() {
                 disabled={isLoadingLocation}
                 variant={userLocation ? "default" : "outline"}
                 size="lg"
-                className={`gap-2 ${userLocation ? "bg-green-600 hover:bg-green-700 text-white" : ""}`}
+                className={`gap-2 ${userLocation ? "" : "bg-white/50 backdrop-blur-sm border-primary/30"}`}
               >
                 {isLoadingLocation ? (
                   <>
