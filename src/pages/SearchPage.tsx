@@ -209,9 +209,9 @@ export default function SearchPage() {
               <Button
                 onClick={handleGetLocation}
                 disabled={isLoadingLocation}
-                variant={userLocation ? "secondary" : "default"}
+                variant={userLocation ? "default" : "outline"}
                 size="lg"
-                className="gap-2"
+                className={`gap-2 ${userLocation ? "bg-green-600 hover:bg-green-700 text-white" : ""}`}
               >
                 {isLoadingLocation ? (
                   <>
