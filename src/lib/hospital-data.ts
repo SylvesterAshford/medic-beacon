@@ -36,9 +36,11 @@ export const getCities = (): string[] => {
 };
 
 export const getEstimatedCost = (hospital: Hospital, procedure: string): number => {
-  const baseCost = hospital.ownership === "Private" ? 5000 : 2000;
-  const procedureMultiplier = procedure === "All Procedures" ? 1 : 1.5;
-  return Math.round(baseCost * procedureMultiplier);
+  // Realistic Myanmar Kyat pricing
+  const baseCost = hospital.ownership === "Private" ? 3500000 : 800000;
+  const procedureMultiplier = procedure === "All Procedures" ? 1 : 1.8;
+  const bedsFactor = hospital.beds === "NA" ? 1 : Math.min(parseInt(hospital.beds) / 500, 2);
+  return Math.round(baseCost * procedureMultiplier * bedsFactor);
 };
 
 export const getEstimatedRating = (hospital: Hospital): number => {

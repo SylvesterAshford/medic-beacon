@@ -115,7 +115,7 @@ export const HospitalCard = ({
             <div>
               <p className="text-xs text-muted-foreground">Estimated Cost</p>
               <p className="text-sm font-bold text-primary">
-                ${estimatedCost.toLocaleString()}
+                {estimatedCost.toLocaleString()} MMK
               </p>
             </div>
           </div>
