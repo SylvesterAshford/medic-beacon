@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "name": "Myitkyina General Hospital",
+    "coordinates": [97.3955580000001, 25.394893],
+    "beds": "500",
+    "state": "Kachin",
+    "city": "Myitkyina"
+  },
+  {
+    "id": 2,
+    "name": "Loikaw General Hospital",
+    "coordinates": [97.2199660000001, 19.680104],
+    "beds": "500",
+    "state": "Kayah",
+    "city": "Loikaw"
+  },
+  {
+    "id": 3,
+    "name": "Hpa-An General Hospital",
+    "coordinates": [97.635904, 16.882569],
+    "beds": "200",
+    "state": "Kayin",
+    "city": "Hpa-An"
+  },
+  {
+    "id": 4,
+    "name": "Falam General Hospital",
+    "coordinates": [93.6763670000001, 22.9190380000001],
+    "beds": "200",
+    "state": "Chin",
+    "city": "Falam"
+  },
+  {
+    "id": 5,
+    "name": "Hakha General Hospital",
+    "coordinates": [93.60837, 22.64766],
+    "beds": "200",
+    "state": "Chin",
+    "city": "Hakha"
+  },
+  {
+    "id": 6,
+    "name": "Sagaing General Hospital",
+    "coordinates": [95.9759520000001, 21.8732360000001],
+    "beds": "200",
+    "state": "Sagaing",
+    "city": "Sagaing"
+  },
+  {
+    "id": 7,
+    "name": "Shwebo General Hospital",
+    "coordinates": [95.7006970000001, 22.564106],
+    "beds": "200",
+    "state": "Sagaing",
+    "city": "Shwebo"
+  },
+  {
+    "id": 8,
+    "name": "Monywa General Hospital",
+    "coordinates": [95.1303500000001, 22.11999],
+    "beds": "500",
+    "state": "Sagaing",
+    "city": "Monywa"
+  },
+  {
+    "id": 9,
+    "name": "Katha General Hospital",
+    "coordinates": [96.3409580000001, 24.181681],
+    "beds": "100",
+    "state": "Sagaing",
+    "city": "Katha"
+  },
+  {
+    "id": 10,
+    "name": "Kale General Hospital",
+    "coordinates": [94.0636970000001, 23.1904280000001],
+    "beds": "300",
+    "state": "Sagaing",
+    "city": "Kale"
+  },
+  {
+    "id": 11,
+    "name": "Tamu General Hospital",
+    "coordinates": [94.3103640000001, 24.2182960000001],
+    "beds": "100",
+    "state": "Sagaing",
+    "city": "Tamu"
+  },
+  {
+    "id": 12,
+    "name": "Hkamti General Hospital",
+    "coordinates": [95.6972250000001, 25.9936000000001],
+    "beds": "100",
+    "state": "Sagaing",
+    "city": "Hkamti"
+  },
+  {
+    "id": 13,
+    "name": "Dawei General Hospital",
+    "coordinates": [98.2031070000001, 14.0792250000001],
+    "beds": "200",
+    "state": "Tanintharyi",
+    "city": "Dawei"
+  },
+  {
+    "id": 14,
+    "name": "Myeik General Hospital",
+    "coordinates": [98.610958, 12.463061],
+    "beds": "200",
+    "state": "Tanintharyi",
+    "city": "Myeik"
+  },
+  {
+    "id": 15,
+    "name": "Kawthoung General Hospital",
+    "coordinates": [98.5480590000001, 9.99350900000007],
+    "beds": "100",
+    "state": "Tanintharyi",
+    "city": "Kawthoung"
+  },
+  {
+    "id": 16,
+    "name": "Bago General Hospital",
+    "coordinates": [96.4842200000001, 17.337363],
+    "beds": "500",
+    "state": "Bago (East)",
+    "city": "Bago"
+  },
+  {
+    "id": 17,
+    "name": "Taungoo General Hospital",
+    "coordinates": [96.443386, 18.937459],
+    "beds": "200",
+    "state": "Bago (East)",
+    "city": "Taungoo"
+  },
+  {
+    "id": 18,
+    "name": "Pyay General Hospital",
+    "coordinates": [95.2465730000001, 18.822797],
+    "beds": "500",
+    "state": "Bago (West)",
+    "city": "Pyay"
+  },
+  {
+    "id": 19,
+    "name": "Thayarwady General Hospital",
+    "coordinates": [95.7865800000001, 17.653689],
+    "beds": "NA",
+    "state": "Bago (West)",
+    "city": "Thayarwady"
+  },
+  {
+    "id": 20,
+    "name": "Magway General Hospital",
+    "coordinates": [94.9282200000001, 20.1472190000001],
+    "beds": "200",
+    "state": "Magway",
+    "city": "Magway"
+  },
+  {
+    "id": 21,
+    "name": "Magway Teaching Hosptial",
+    "coordinates": [94.9918910000001, 20.1678930000001],
+    "beds": "200",
+    "state": "Magway",
+    "city": "Magway"
+  },
+  {
+    "id": 22,
+    "name": "Taungdwingyi Township Hospital",
+    "coordinates": [95.5447150000001, 20.003931],
+    "beds": "50",
+    "state": "Magway",
+    "city": "Taungdwingyi"
+  },
+  {
+    "id": 23,
+    "name": "Minbu General Hospital",
+    "coordinates": [94.875573, 20.1742990000001],
+    "beds": "200",
+    "state": "Magway",
+    "city": "Minbu"
+  },
+  {
+    "id": 24,
+    "name": "Thayet General Hospital",
+    "coordinates": [95.183388, 19.32496],
+    "beds": "100",
+    "state": "Magway",
+    "city": "Thayet"
+  },
+  {
+    "id": 25,
+    "name": "Pakokku General Hospital",
+    "coordinates": [95.0882450000001, 21.33498],
+    "beds": "200",
+    "state": "Magway",
+    "city": "Pakokku"
+  },
+  {
+    "id": 26,
+    "name": "Gangaw General Hospital",
+    "coordinates": [94.1270080000001, 22.1719590000001],
+    "beds": "100",
+    "state": "Magway",
+    "city": "Gangaw"
+  },
+  {
+    "id": 27,
+    "name": "Chanayethazan General Hospital",
+    "coordinates": [96.090378, 21.977446],
+    "beds": "1500",
+    "state": "Mandalay",
+    "city": "Chanayethazan"
+  },
+  {
+    "id": 28,
+    "name": "Pyinoolwin General Hospital",
+    "coordinates": [96.4661410000001, 22.0225120000001],
+    "beds": "300",
+    "state": "Mandalay",
+    "city": "Pyinoolwin"
+  },
+  {
+    "id": 29,
+    "name": "Kyaukse General Hospital",
+    "coordinates": [96.1276580000001, 21.6104120000001],
+    "beds": "200",
+    "state": "Mandalay",
+    "city": "Kyaukse"
+  },
+  {
+    "id": 30,
+    "name": "Myingyan General Hospital",
+    "coordinates": [95.3893430000001, 21.4747980000001],
+    "beds": "100",
+    "state": "Mandalay",
+    "city": "Myingyan"
+  },
+  {
+    "id": 31,
+    "name": "Nyaung-U General Hospital",
+    "coordinates": [94.911616, 21.1839860000001],
+    "beds": "200",
+    "state": "Mandalay",
+    "city": "Nyaung-U"
+  },
+  {
+    "id": 32,
+    "name": "Yamethin General Hospital",
+    "coordinates": [96.1358010000001, 20.4363320000001],
+    "beds": "NA",
+    "state": "Mandalay",
+    "city": "Yamethin"
+  },
+  {
+    "id": 33,
+    "name": "Meiktila General Hospital",
+    "coordinates": [95.844727, 20.8766240000001],
+    "beds": "200",
+    "state": "Mandalay",
+    "city": "Meiktila"
+  },
+  {
+    "id": 34,
+    "name": "Mawlamyine General Hospital",
+    "coordinates": [97.6280280000001, 16.472109],
+    "beds": "500",
+    "state": "Mon",
+    "city": "Mawlamyine"
+  },
+  {
+    "id": 35,
+    "name": "Thaton General Hospital",
+    "coordinates": [97.3678620000001, 16.9205400000001],
+    "beds": "100",
+    "state": "Mon",
+    "city": "Thaton"
+  },
+  {
+    "id": 36,
+    "name": "Sittwe General Hospital",
+    "coordinates": [92.8987320000001, 20.1375640000001],
+    "beds": "500",
+    "state": "Rakhine",
+    "city": "Sittwe"
+  },
+  {
+    "id": 37,
+    "name": "Mrauk-U Township Hospital",
+    "coordinates": [93.1760120000001, 20.6084490000001],
+    "beds": "100",
+    "state": "Rakhine",
+    "city": "Mrauk-U"
+  },
+  {
+    "id": 38,
+    "name": "Maungdaw General Hospital",
+    "coordinates": [92.3685970000001, 20.8204220000001],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Maungdaw"
+  },
+  {
+    "id": 39,
+    "name": "Kyaukpyu General Hospital",
+    "coordinates": [93.5470290000001, 19.431771],
+    "beds": "200",
+    "state": "Rakhine",
+    "city": "Kyaukpyu"
+  },
+  {
+    "id": 40,
+    "name": "Thandwe General Hospital",
+    "coordinates": [94.3594100000001, 18.4649200000001],
+    "beds": "100",
+    "state": "Rakhine",
+    "city": "Thandwe"
+  },
+  {
+    "id": 41,
+    "name": "Insein General Hsoptial",
+    "coordinates": [96.1051130000001, 16.8920190000001],
+    "beds": "500",
+    "state": "Yangon",
+    "city": "Insein"
+  },
+  {
+    "id": 42,
+    "name": "Thingyangyun General Hospital",
+    "coordinates": [96.1905380000001, 16.8343800000001],
+    "beds": "500",
+    "state": "Yangon",
+    "city": "Thingangyun"
+  },
+  {
+    "id": 43,
+    "name": "North Okkalapa Teaching and General Hospital",
+    "coordinates": [96.1580630000001, 16.900792],
+    "beds": "800",
+    "state": "Yangon",
+    "city": "North Okkalapa"
+  },
+  {
+    "id": 44,
+    "name": "Botahtaung General Hospital",
+    "coordinates": [96.1741160000001, 16.7717190000001],
+    "beds": "200",
+    "state": "Yangon",
+    "city": "Botahtaung"
+  },
+  {
+    "id": 45,
+    "name": "Thanlyin General Hospital",
+    "coordinates": [96.252575, 16.7597270000001],
+    "beds": "200",
+    "state": "Yangon",
+    "city": "Thanlyin"
+  },
+  {
+    "id": 46,
+    "name": "New Yangon General Hospital",
+    "coordinates": [96.1452540000001, 16.781532],
+    "beds": "200",
+    "state": "Yangon",
+    "city": "Lanmadaw"
+  },
+  {
+    "id": 47,
+    "name": "Latha General Hospital",
+    "coordinates": [96.148983, 16.779141],
+    "beds": "2000",
+    "state": "Yangon",
+    "city": "Latha"
+  },
+  {
+    "id": 48,
+    "name": "Kyeemyindaing General Hospital",
+    "coordinates": [96.125548, 16.7959310000001],
+    "beds": "300",
+    "state": "Yangon",
+    "city": "Kyeemyindaing"
+  },
+  {
+    "id": 49,
+    "name": "Kengtung General Hospital",
+    "coordinates": [99.616162, 21.260046],
+    "beds": "200",
+    "state": "Shan (East)",
+    "city": "Kengtung"
+  },
+  {
+    "id": 50,
+    "name": "Kyaukme General Hospital",
+    "coordinates": [97.0318820000001, 22.5237220000001],
+    "beds": "150",
+    "state": "Shan (North)",
+    "city": "Kyaukme"
+  },
+  {
+    "id": 51,
+    "name": "Tachileik General Hospital",
+    "coordinates": [99.8840210000001, 20.4598360000001],
+    "beds": "100",
+    "state": "Shan (East)",
+    "city": "Tachileik"
+  },
+  {
+    "id": 52,
+    "name": "Saosanhtun General Hospital",
+    "coordinates": [97.036074, 20.8038790000001],
+    "beds": "500",
+    "state": "Shan (South)",
+    "city": "Taunggyi"
+  },
+  {
+    "id": 53,
+    "name": "Lashio General Hospital",
+    "coordinates": [97.747036, 22.935936],
+    "beds": "500",
+    "state": "Shan (North)",
+    "city": "Lashio"
+  },
+  {
+    "id": 54,
+    "name": "Hsipaw Township Hospital",
+    "coordinates": [97.3005270000001, 22.6140950000001],
+    "beds": "100",
+    "state": "Shan (North)",
+    "city": "Hsipaw"
+  },
+  {
+    "id": 55,
+    "name": "Muse General Hospital",
+    "coordinates": [97.8998940000001, 23.993365],
+    "beds": "100",
+    "state": "Shan (North)",
+    "city": "Muse"
+  },
+  {
+    "id": 56,
+    "name": "Loilen General Hospital",
+    "coordinates": [97.562868, 20.9181380000001],
+    "beds": "200",
+    "state": "Shan (South)",
+    "city": "Loilen"
+  },
+  {
+    "id": 57,
+    "name": "Pathein General Hospital",
+    "coordinates": [94.7352780000001, 16.7833140000001],
+    "beds": "500",
+    "state": "Ayeyarwady",
+    "city": "Pathein"
+  },
+  {
+    "id": 58,
+    "name": "Hinthada General Hospital",
+    "coordinates": [95.4558410000001, 17.634738],
+    "beds": "200",
+    "state": "Ayeyarwady",
+    "city": "Hinthada"
+  },
+  {
+    "id": 59,
+    "name": "Myaungmya General Hospital",
+    "coordinates": [94.9284220000001, 16.602516],
+    "beds": "200",
+    "state": "Ayeyarwady",
+    "city": "Myaungmya"
+  },
+  {
+    "id": 60,
+    "name": "Labutta General Hospital",
+    "coordinates": [94.7554721935797, 16.149294051141],
+    "beds": "200",
+    "state": "Ayeyarwady",
+    "city": "Labutta"
+  },
+  {
+    "id": 61,
+    "name": "Maubin General Hospital",
+    "coordinates": [95.649569, 16.722276],
+    "beds": "200",
+    "state": "Ayeyarwady",
+    "city": "Maubin"
+  },
+  {
+    "id": 62,
+    "name": "Pyapon General Hospital",
+    "coordinates": [95.6815220000001, 16.2834810000001],
+    "beds": "200",
+    "state": "Ayeyarwady",
+    "city": "Pyapon"
+  },
+  {
+    "id": 63,
+    "name": "Lewe Township Hospital",
+    "coordinates": [96.1223430000001, 19.656684],
+    "beds": "100",
+    "state": "Nay Pyi Taw",
+    "city": "Lewe"
+  },
+  {
+    "id": 64,
+    "name": "Pyinmana General Hospital",
+    "coordinates": [96.1999000000001, 19.73544],
+    "beds": "200",
+    "state": "Nay Pyi Taw",
+    "city": "Pyinmana"
+  },
+  {
+    "id": 65,
+    "name": "(1000) Bedded Nay Pyi Taw General Hospital",
+    "coordinates": [96.1018770000001, 19.742447],
+    "beds": "1000",
+    "state": "Nay Pyi Taw",
+    "city": "Za Bu Thi Ri"
+  },
+  {
+    "id": 66,
+    "name": "Poke Ba Thi Ri General Hospital",
+    "coordinates": [96.200411, 19.903782],
+    "beds": "300",
+    "state": "Nay Pyi Taw",
+    "city": "Poke Ba Thi Ri"
+  },
+  {
+    "id": 67,
+    "name": "Bhamo General Hospital",
+    "coordinates": [97.23044, 24.26363],
+    "beds": "200",
+    "state": "Kachin",
+    "city": "Bhamo"
+  },
+  {
+    "id": 68,
+    "name": "Puta-O General Hospital",
+    "coordinates": [97.3984590000001, 27.3492390000001],
+    "beds": "100",
+    "state": "Kachin",
+    "city": "Puta-O"
+  },
+  {
+    "id": 69,
+    "name": "Mohnyin General Hospital",
+    "coordinates": [96.3654350000001, 24.774662],
+    "beds": "100",
+    "state": "Kachin",
+    "city": "Mohnyin"
+  },
+  {
+    "id": 70,
+    "name": "Bawlake General Hospital",
+    "coordinates": [97.34234, 19.1691200000001],
+    "beds": "50",
+    "state": "Kayah",
+    "city": "Bawlake"
+  },
+  {
+    "id": 71,
+    "name": "Hpapun Township Hospital",
+    "coordinates": [97.4445940000001, 18.0586940000001],
+    "beds": "100",
+    "state": "Kayin",
+    "city": "Hpapun"
+  },
+  {
+    "id": 72,
+    "name": "Myawaddy General Hospital",
+    "coordinates": [98.506062, 16.6857840000001],
+    "beds": "100",
+    "state": "Kayin",
+    "city": "Myawaddy"
+  },
+  {
+    "id": 73,
+    "name": "Kawkareik General Hospital",
+    "coordinates": [98.2449070000001, 16.5584450000001],
+    "beds": "100",
+    "state": "Kayin",
+    "city": "Kawkareik"
+  },
+  {
+    "id": 74,
+    "name": "Tedim Township Hospital",
+    "coordinates": [93.6509550000001, 23.368797],
+    "beds": "100",
+    "state": "Chin",
+    "city": "Tedim"
+  },
+  {
+    "id": 75,
+    "name": "Mindat General Hospital",
+    "coordinates": [93.9638590000001, 21.371679],
+    "beds": "100",
+    "state": "Chin",
+    "city": "Mindat"
+  },
+  {
+    "id": 76,
+    "name": "Anar Gyi Hospital",
+    "coordinates": [96.1453000000001, 22.332322],
+    "beds": "200",
+    "state": "Mandalay",
+    "city": "Madaya"
+  },
+  {
+    "id": 77,
+    "name": "Mogoke Township Hospital",
+    "coordinates": [96.4971790000001, 22.9185450000001],
+    "beds": "100",
+    "state": "Mandalay",
+    "city": "Mogoke"
+  },
+  {
+    "id": 78,
+    "name": "Ye Township Hospital",
+    "coordinates": [97.8529760000001, 15.2461960000001],
+    "beds": "100",
+    "state": "Mon",
+    "city": "Ye"
+  },
+  {
+    "id": 79,
+    "name": "Paung Township Hospital",
+    "coordinates": [97.4595870000001, 16.621297],
+    "beds": "50",
+    "state": "Mon",
+    "city": "Paung"
+  },
+  {
+    "id": 80,
+    "name": "Kyaikto Township Hospital",
+    "coordinates": [97.0211120000001, 17.3080410000001],
+    "beds": "50",
+    "state": "Mon",
+    "city": "Kyaikto"
+  },
+  {
+    "id": 81,
+    "name": "Ramree Township Hospital",
+    "coordinates": [93.861654, 19.0892260000001],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Ramree"
+  },
+  {
+    "id": 82,
+    "name": "Ann Township Hospital",
+    "coordinates": [94.0447100000001, 19.79436],
+    "beds": "100",
+    "state": "Rakhine",
+    "city": "Ann"
+  },
+  {
+    "id": 83,
+    "name": "Toungup Township Hospital",
+    "coordinates": [94.2362700000001, 18.8530400000001],
+    "beds": "100",
+    "state": "Rakhine",
+    "city": "Toungup"
+  },
+  {
+    "id": 84,
+    "name": "Hmawbi Township Hospital",
+    "coordinates": [96.0428870000001, 17.0973900000001],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Hmawbi"
+  },
+  {
+    "id": 85,
+    "name": "Hlegu Township Hospital",
+    "coordinates": [96.2251360000001, 17.0998970000001],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Hlegu"
+  },
+  {
+    "id": 86,
+    "name": "Taikkyi Township Hospital",
+    "coordinates": [95.9601740000001, 17.316542],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Taikkyi"
+  },
+  {
+    "id": 87,
+    "name": "Htantabin Township Hospital",
+    "coordinates": [95.987982, 17.0136470000001],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Htantabin"
+  },
+  {
+    "id": 88,
+    "name": "Hlaingtharyar Township Hospital",
+    "coordinates": [96.064131, 16.8751740000001],
+    "beds": "200",
+    "state": "Yangon",
+    "city": "Haling Tharyar"
+  },
+  {
+    "id": 89,
+    "name": "Kyauktan Township Hospital",
+    "coordinates": [96.3269090000001, 16.636801],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Kyauktan"
+  },
+  {
+    "id": 90,
+    "name": "Thongwa Township Hospital",
+    "coordinates": [96.523242, 16.76012],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Thongwa"
+  },
+  {
+    "id": 91,
+    "name": "Kayan Township Hospital",
+    "coordinates": [96.55861, 16.9035280000001],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Kayan"
+  },
+  {
+    "id": 92,
+    "name": "Twantay Township Hospital",
+    "coordinates": [95.9333290000001, 16.7059780000001],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Twantay"
+  },
+  {
+    "id": 93,
+    "name": "Kalaw Township Hospital",
+    "coordinates": [96.5681690000001, 20.63701],
+    "beds": "100",
+    "state": "Shan (South)",
+    "city": "Kalaw"
+  },
+  {
+    "id": 94,
+    "name": "Nyaungshwe Township Hospital",
+    "coordinates": [96.9300190000001, 20.6555280000001],
+    "beds": "50",
+    "state": "Shan (South)",
+    "city": "Nyaungshwe"
+  },
+  {
+    "id": 95,
+    "name": "Pindaya Township Hospital",
+    "coordinates": [96.667157, 20.935481],
+    "beds": "50",
+    "state": "Shan (South)",
+    "city": "Pindaya"
+  },
+  {
+    "id": 96,
+    "name": "Hopong Township Hospital",
+    "coordinates": [97.1776490000001, 20.797669],
+    "beds": "50",
+    "state": "Shan (South)",
+    "city": "Hopong"
+  },
+  {
+    "id": 97,
+    "name": "Lawksawk Township Hospital",
+    "coordinates": [96.8613460000001, 21.2507800000001],
+    "beds": "50",
+    "state": "Shan (South)",
+    "city": "Lawksawk"
+  },
+  {
+    "id": 98,
+    "name": "Langkho General Hospital",
+    "coordinates": [97.997891, 20.333784],
+    "beds": "50",
+    "state": "Shan (South)",
+    "city": "Langkho"
+  },
+  {
+    "id": 99,
+    "name": "Kutkai Township Hospital",
+    "coordinates": [97.930144, 23.460221],
+    "beds": "50",
+    "state": "Shan (North)",
+    "city": "Kutkai"
+  },
+  {
+    "id": 100,
+    "name": "Kunlong General Hospital",
+    "coordinates": [98.6452400000001, 23.415197],
+    "beds": "50",
+    "state": "Shan (North)",
+    "city": "Kunlong"
+  },
+  {
+    "id": 101,
+    "name": "Namhkan Township Hospital",
+    "coordinates": [97.6951360000001, 23.8401940000001],
+    "beds": "100",
+    "state": "Shan (North)",
+    "city": "Namhkan"
+  },
+  {
+    "id": 102,
+    "name": "Namtu Township Hospital",
+    "coordinates": [97.393062, 23.0874910000001],
+    "beds": "150",
+    "state": "Shan (North)",
+    "city": "Namtu"
+  },
+  {
+    "id": 103,
+    "name": "Manton Township Hospital",
+    "coordinates": [97.123433, 23.2557800000001],
+    "beds": "25",
+    "state": "Shan (North)",
+    "city": "Manton"
+  },
+  {
+    "id": 104,
+    "name": "Mongmit Township Hospital",
+    "coordinates": [96.6718700000001, 23.1076840000001],
+    "beds": "50",
+    "state": "Shan (North)",
+    "city": "Mongmit"
+  },
+  {
+    "id": 105,
+    "name": "Monghsat General Hospital",
+    "coordinates": [99.2617670000001, 20.525358],
+    "beds": "50",
+    "state": "Shan (East)",
+    "city": "Monghsat"
+  },
+  {
+    "id": 106,
+    "name": "Monghpyak General Hospital",
+    "coordinates": [99.921317, 20.8780360000001],
+    "beds": "25",
+    "state": "Shan (East)",
+    "city": "Monghpyak"
+  },
+  {
+    "id": 107,
+    "name": "Kangyidaunt Township Hospital",
+    "coordinates": [94.904142, 16.9203160000001],
+    "beds": "25",
+    "state": "Ayeyarwady",
+    "city": "Kangyidaunt"
+  },
+  {
+    "id": 108,
+    "name": "Ngapudaw Township Hospital",
+    "coordinates": [94.6912400000001, 16.544497],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Ngapudaw"
+  },
+  {
+    "id": 109,
+    "name": "Kyonpyaw Township Hospital",
+    "coordinates": [95.1878830000001, 17.306497],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Kyonpyaw"
+  },
+  {
+    "id": 110,
+    "name": "Kyaunggon General Hospital",
+    "coordinates": [95.1868260000001, 17.101416],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Kyaunggon"
+  },
+  {
+    "id": 111,
+    "name": "Einme Township Hospital",
+    "coordinates": [95.178074, 16.8961890000001],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Einme"
+  },
+  {
+    "id": 112,
+    "name": "Wakema Township Hospital",
+    "coordinates": [95.1782140000001, 16.604814],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Wakema"
+  },
+  {
+    "id": 113,
+    "name": "Mawlamyinegyun Township Hospital",
+    "coordinates": [95.2648090000001, 16.3945890000001],
+    "beds": "100",
+    "state": "Ayeyarwady",
+    "city": "Mawlamyinegyun"
+  },
+  {
+    "id": 114,
+    "name": "Nyaungdon Township Hospital",
+    "coordinates": [95.6362750000001, 17.049428],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Nyaungdon"
+  },
+  {
+    "id": 115,
+    "name": "Danubyu Township Hospital",
+    "coordinates": [95.5926960000001, 17.253337],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Danubyu"
+  },
+  {
+    "id": 116,
+    "name": "Bogale Township Hospital",
+    "coordinates": [95.4110390000001, 16.278396],
+    "beds": "100",
+    "state": "Ayeyarwady",
+    "city": "Bogale"
+  },
+  {
+    "id": 117,
+    "name": "Kyaiklat Township Hospital",
+    "coordinates": [95.72486, 16.444381],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Kyaiklat"
+  },
+  {
+    "id": 118,
+    "name": "Dedaye Township Hospital",
+    "coordinates": [95.8765430000001, 16.402521],
+    "beds": "50",
+    "state": "Ayeyarwady",
+    "city": "Dedaye"
+  },
+  {
+    "id": 119,
+    "name": "Pantanaw Township Hospital",
+    "coordinates": [95.4674860000001, 16.981188],
+    "beds": "25",
+    "state": "Ayeyarwady",
+    "city": "Pantanaw"
+  },
+  {
+    "id": 120,
+    "name": "Shwegyin Township Hospital",
+    "coordinates": [96.8813440000001, 17.931547],
+    "beds": "100",
+    "state": "Bago (East)",
+    "city": "Shwegyin"
+  },
+  {
+    "id": 121,
+    "name": "Kyaukkyi Township Hospital",
+    "coordinates": [96.7708900000001, 18.330702],
+    "beds": "50",
+    "state": "Bago (East)",
+    "city": "Kyaukkyi"
+  },
+  {
+    "id": 122,
+    "name": "Phyu Township Hospital",
+    "coordinates": [96.4316680000001, 18.4801180000001],
+    "beds": "100",
+    "state": "Bago (East)",
+    "city": "Phyu"
+  },
+  {
+    "id": 123,
+    "name": "Htantabin Township Hospital",
+    "coordinates": [96.4859890000001, 18.841597],
+    "beds": "50",
+    "state": "Bago (East)",
+    "city": "Htantabin"
+  },
+  {
+    "id": 124,
+    "name": "Letpadan Township Hospital",
+    "coordinates": [95.7571260000001, 17.786597],
+    "beds": "50",
+    "state": "Bago (West)",
+    "city": "Letpadan"
+  },
+  {
+    "id": 125,
+    "name": "Okpho Township Hospital",
+    "coordinates": [95.6721450000001, 18.1250670000001],
+    "beds": "50",
+    "state": "Bago (West)",
+    "city": "Okpho"
+  },
+  {
+    "id": 126,
+    "name": "Zigon Township Hospital",
+    "coordinates": [95.6239990000001, 18.3348100000001],
+    "beds": "50",
+    "state": "Bago (West)",
+    "city": "Zigon"
+  },
+  {
+    "id": 127,
+    "name": "Gyobingauk Township Hospital",
+    "coordinates": [95.648152, 18.2280430000001],
+    "beds": "100",
+    "state": "Bago (West)",
+    "city": "Gyobingauk"
+  },
+  {
+    "id": 128,
+    "name": "Yenangyaung Township Hospital",
+    "coordinates": [94.871654, 20.456912],
+    "beds": "50",
+    "state": "Magway",
+    "city": "Yenangyaung"
+  },
+  {
+    "id": 129,
+    "name": "Chauk Township Hospital",
+    "coordinates": [94.8235210000001, 20.891333],
+    "beds": "50",
+    "state": "Magway",
+    "city": "Chauk"
+  },
+  {
+    "id": 130,
+    "name": "Natmauk Township Hospital",
+    "coordinates": [95.3996740000001, 20.363188],
+    "beds": "50",
+    "state": "Magway",
+    "city": "Natmauk"
+  },
+  {
+    "id": 131,
+    "name": "Salin Township Hospital",
+    "coordinates": [94.6596080000001, 20.574038],
+    "beds": "50",
+    "state": "Magway",
+    "city": "Salin"
+  },
+  {
+    "id": 132,
+    "name": "Yesagyo Township Hospital",
+    "coordinates": [95.245277, 21.6261720000001],
+    "beds": "100",
+    "state": "Magway",
+    "city": "Yesagyo"
+  },
+  {
+    "id": 133,
+    "name": "Myaing Township Hospital",
+    "coordinates": [94.8613790000001, 21.6136910000001],
+    "beds": "50",
+    "state": "Magway",
+    "city": "Myaing"
+  },
+  {
+    "id": 134,
+    "name": "Seikphyu Township Hospital",
+    "coordinates": [94.7961710000001, 20.910623],
+    "beds": "50",
+    "state": "Magway",
+    "city": "Seikphyu"
+  },
+  {
+    "id": 135,
+    "name": "Tilin Township Hospital",
+    "coordinates": [94.095854, 21.6918430000001],
+    "beds": "25",
+    "state": "Magway",
+    "city": "Tilin"
+  },
+  {
+    "id": 136,
+    "name": "Saw Township Hospital",
+    "coordinates": [94.1554300000001, 21.153628],
+    "beds": "25",
+    "state": "Magway",
+    "city": "Saw"
+  },
+  {
+    "id": 137,
+    "name": "Amarapura Township Hospital",
+    "coordinates": [96.0482530000001, 21.8976690000001],
+    "beds": "25",
+    "state": "Mandalay",
+    "city": "Amarapura"
+  },
+  {
+    "id": 138,
+    "name": "Madaya Township Hospital",
+    "coordinates": [96.1047280000001, 22.2105990000001],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Madaya"
+  },
+  {
+    "id": 139,
+    "name": "Singu Township Hospital",
+    "coordinates": [95.9942260000001, 22.547444],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Singu"
+  },
+  {
+    "id": 140,
+    "name": "Thabeikkyin Township Hospital",
+    "coordinates": [95.981476, 22.8868810000001],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Thabeikkyin"
+  },
+  {
+    "id": 141,
+    "name": "Sintgaing Township Hospital",
+    "coordinates": [96.095133, 21.738703],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Sintgaing"
+  },
+  {
+    "id": 142,
+    "name": "Myittha Township Hospital",
+    "coordinates": [96.1292720000001, 21.422586],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Myittha"
+  },
+  {
+    "id": 143,
+    "name": "Tada-U Township Hospital",
+    "coordinates": [95.967364, 21.8166420000001],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Tada-U"
+  },
+  {
+    "id": 144,
+    "name": "Taungtha Township Hospital",
+    "coordinates": [95.4493080000001, 21.2681680000001],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Taungtha"
+  },
+  {
+    "id": 145,
+    "name": "Natogyi Township Hospital",
+    "coordinates": [95.6494410000001, 21.4253790000001],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Natogyi"
+  },
+  {
+    "id": 146,
+    "name": "Kyaukpadaung Township Hospital",
+    "coordinates": [95.1204850000001, 20.8344910000001],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Kyaukpadaung"
+  },
+  {
+    "id": 147,
+    "name": "Ngazun Township Hospital",
+    "coordinates": [95.6846770000001, 21.893851],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Ngazun"
+  },
+  {
+    "id": 148,
+    "name": "Pyawbwe Township Hospital",
+    "coordinates": [96.0430060000001, 20.602203],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Pyawbwe"
+  },
+  {
+    "id": 149,
+    "name": "Mahlaing Township Hospital",
+    "coordinates": [95.645403, 21.0979170000001],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Mahlaing"
+  },
+  {
+    "id": 150,
+    "name": "Thazi Township Hospital",
+    "coordinates": [96.04729, 20.851008],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Thazi"
+  },
+  {
+    "id": 151,
+    "name": "Wundwin Township Hospital",
+    "coordinates": [96.0334010000001, 21.094184],
+    "beds": "50",
+    "state": "Mandalay",
+    "city": "Wundwin"
+  },
+  {
+    "id": 152,
+    "name": "Kyaikmaraw Township Hospital",
+    "coordinates": [97.7218750000001, 16.369291],
+    "beds": "25",
+    "state": "Mon",
+    "city": "Kyaikmaraw"
+  },
+  {
+    "id": 153,
+    "name": "Chaungzon Township Hospital",
+    "coordinates": [97.5500290000001, 16.3572730000001],
+    "beds": "50",
+    "state": "Mon",
+    "city": "Chaungzon"
+  },
+  {
+    "id": 154,
+    "name": "Thanbyuzayat Township Hospital",
+    "coordinates": [97.7289520000001, 15.960517],
+    "beds": "50",
+    "state": "Mon",
+    "city": "Thanbyuzayat"
+  },
+  {
+    "id": 155,
+    "name": "Mudon Township Hospital",
+    "coordinates": [97.7228500000001, 16.257258],
+    "beds": "25",
+    "state": "Mon",
+    "city": "Mudon"
+  },
+  {
+    "id": 156,
+    "name": "Bilin Township Hospital",
+    "coordinates": [97.2321350000001, 17.217858],
+    "beds": "25",
+    "state": "Mon",
+    "city": "Bilin"
+  },
+  {
+    "id": 157,
+    "name": "Ponnagyun Township Hospital",
+    "coordinates": [93.0017760000001, 20.328157],
+    "beds": "25",
+    "state": "Rakhine",
+    "city": "Ponnagyun"
+  },
+  {
+    "id": 158,
+    "name": "Kyauktaw Township Hospital",
+    "coordinates": [92.9756810000001, 20.84295],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Kyauktaw"
+  },
+  {
+    "id": 159,
+    "name": "Minbya Township Hospital",
+    "coordinates": [93.2702770000001, 20.3557480000001],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Minbya"
+  },
+  {
+    "id": 160,
+    "name": "Myebon Township Hospital",
+    "coordinates": [93.37226, 20.0422140000001],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Myebon"
+  },
+  {
+    "id": 161,
+    "name": "Pauktaw Township Hospital",
+    "coordinates": [93.0703700000001, 20.1841830000001],
+    "beds": "25",
+    "state": "Rakhine",
+    "city": "Pauktaw"
+  },
+  {
+    "id": 162,
+    "name": "Rathedaung Township Hospital",
+    "coordinates": [92.7529760000001, 20.4826570000001],
+    "beds": "25",
+    "state": "Rakhine",
+    "city": "Rathedaung"
+  },
+  {
+    "id": 163,
+    "name": "Buthidaung Township Hospital",
+    "coordinates": [92.5309480000001, 20.8773160000001],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Buthidaung"
+  },
+  {
+    "id": 164,
+    "name": "Munaung Township Hospital",
+    "coordinates": [93.7266930000001, 18.85679],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Munaung"
+  },
+  {
+    "id": 165,
+    "name": "Gwa Township Hospital",
+    "coordinates": [94.5720620000001, 17.5941790000001],
+    "beds": "50",
+    "state": "Rakhine",
+    "city": "Gwa"
+  },
+  {
+    "id": 166,
+    "name": "Pale Myo Thit Hospital",
+    "coordinates": [96.1434, 16.9900000000001],
+    "beds": "50",
+    "state": "Yangon",
+    "city": "Mingaladon"
+  },
+  {
+    "id": 167,
+    "name": "Shwepyithar Township Hospital",
+    "coordinates": [96.077796, 16.9698770000001],
+    "beds": "35",
+    "state": "Yangon",
+    "city": "Shwepyithar"
+  },
+  {
+    "id": 168,
+    "name": "Dagon Myothit (South) Township Hospital",
+    "coordinates": [96.2208620000001, 16.8510880000001],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Dagon Myothit (South)"
+  },
+  {
+    "id": 169,
+    "name": "Dagon Myothit (North) Township Hospital",
+    "coordinates": [96.199036, 16.8914560000001],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Dagon Myothit (North)"
+  },
+  {
+    "id": 170,
+    "name": "Dagon Myothit (East) Township Hospital",
+    "coordinates": [96.2318660000001, 16.9178210000001],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Dagon Myothit (East)"
+  },
+  {
+    "id": 171,
+    "name": "Dagon Myothit (Seikkan) Township Hospital",
+    "coordinates": [96.2809, 16.858435],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Dagon Myothit (Seikkan)"
+  },
+  {
+    "id": 172,
+    "name": "Kawhmu Township Hospital",
+    "coordinates": [96.0616480000001, 16.555549],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Kawhmu"
+  },
+  {
+    "id": 173,
+    "name": "Kungyangon Township Hospital",
+    "coordinates": [96.007638, 16.4380620000001],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Kungyangon"
+  },
+  {
+    "id": 174,
+    "name": "Dala Township Hospital",
+    "coordinates": [96.1553700000001, 16.758315],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Dala"
+  },
+  {
+    "id": 175,
+    "name": "Seikgyikanaungto Township Hospital",
+    "coordinates": [96.1099190000001, 16.755137],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Seikgyikanaungto"
+  },
+  {
+    "id": 176,
+    "name": "Cocokyun Township Hospital",
+    "coordinates": [93.3690670000001, 14.1375130000001],
+    "beds": "25",
+    "state": "Yangon",
+    "city": "Cocokyun"
+  },
+  {
+    "id": 177,
+    "name": "Kyethi Township Hospital",
+    "coordinates": [97.8226010000001, 21.927538],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Kyethi"
+  },
+  {
+    "id": 178,
+    "name": "Kunhing Township Hospital",
+    "coordinates": [98.4318920000001, 21.3023710000001],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Kunhing"
+  },
+  {
+    "id": 179,
+    "name": "Konkyan Township Hospital",
+    "coordinates": [98.5421230000001, 23.8262530000001],
+    "beds": "25",
+    "state": "Shan (North)",
+    "city": "Konkyan"
+  },
+  {
+    "id": 180,
+    "name": "Hsihseng Township Hospital",
+    "coordinates": [97.2545910000001, 20.1674140000001],
+    "beds": "50",
+    "state": "Shan (South)",
+    "city": "Hsihseng"
+  },
+  {
+    "id": 181,
+    "name": "Tangyan Township Hospital",
+    "coordinates": [98.399595, 22.491862],
+    "beds": "25",
+    "state": "Shan (North)",
+    "city": "Tangyan"
+  },
+  {
+    "id": 182,
+    "name": "Nansang Township Hospital",
+    "coordinates": [97.7228850000001, 20.8783730000001],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Nansang"
+  },
+  {
+    "id": 183,
+    "name": "Namhsan Township Hospital",
+    "coordinates": [97.1679280000001, 22.9646330000001],
+    "beds": "50",
+    "state": "Shan (North)",
+    "city": "Namhsan"
+  },
+  {
+    "id": 184,
+    "name": "Nawnghkio Township Hospital",
+    "coordinates": [96.791342, 22.3324040000001],
+    "beds": "25",
+    "state": "Shan (North)",
+    "city": "Nawnghkio"
+  },
+  {
+    "id": 185,
+    "name": "Pinlaung Township Hospital",
+    "coordinates": [96.7798358860053, 20.1213839713697],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Pinlaung"
+  },
+  {
+    "id": 186,
+    "name": "Pekon Township Hospital",
+    "coordinates": [97.0181878665567, 19.8583306609521],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Pekon"
+  },
+  {
+    "id": 187,
+    "name": "Matman General Hospital",
+    "coordinates": [98.8710160000001, 21.95412],
+    "beds": "25",
+    "state": "Shan (North)",
+    "city": "Matman"
+  },
+  {
+    "id": 188,
+    "name": "Mabein Township Hospital",
+    "coordinates": [96.6254700000001, 23.469317],
+    "beds": "25",
+    "state": "Shan (North)",
+    "city": "Mabein"
+  },
+  {
+    "id": 189,
+    "name": "Mongnai Township Hospital",
+    "coordinates": [97.8684730000001, 20.509329],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Mongnai"
+  },
+  {
+    "id": 190,
+    "name": "Mongkaing Township Hospital",
+    "coordinates": [97.5311420000001, 21.603212],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Mongkaing"
+  },
+  {
+    "id": 191,
+    "name": "Mongkhet Township Hospital",
+    "coordinates": [99.4565360000001, 21.747019],
+    "beds": "25",
+    "state": "Shan (East)",
+    "city": "Mongkhet"
+  },
+  {
+    "id": 192,
+    "name": "Mongton Township Hospital",
+    "coordinates": [98.897389, 20.294768],
+    "beds": "25",
+    "state": "Shan (East)",
+    "city": "Mongton"
+  },
+  {
+    "id": 193,
+    "name": "Mongpan Township Hospital",
+    "coordinates": [98.368408, 20.319034],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Mongpan"
+  },
+  {
+    "id": 194,
+    "name": "Mongping Township Hospital",
+    "coordinates": [99.0290650000001, 21.3491020000001],
+    "beds": "25",
+    "state": "Shan (East)",
+    "city": "Mongping"
+  },
+  {
+    "id": 195,
+    "name": "Mongyang Township Hospital",
+    "coordinates": [99.6808240000001, 21.8473940000001],
+    "beds": "25",
+    "state": "Shan (East)",
+    "city": "Mongyang"
+  },
+  {
+    "id": 196,
+    "name": "Mongyawng Township Hospital",
+    "coordinates": [100.361837, 21.1824070000001],
+    "beds": "25",
+    "state": "Shan (East)",
+    "city": "Mongyawng"
+  },
+  {
+    "id": 197,
+    "name": "Mongyai Township Hospital",
+    "coordinates": [98.0392670000001, 22.4215090000001],
+    "beds": "25",
+    "state": "Shan (North)",
+    "city": "Mongyai"
+  },
+  {
+    "id": 198,
+    "name": "Monghsu Township Hospital",
+    "coordinates": [98.364631, 21.9055510000001],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Monghsu"
+  },
+  {
+    "id": 199,
+    "name": "Mawkmai Township Hospital",
+    "coordinates": [97.7246910000001, 20.229186],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Mawkmai"
+  },
+  {
+    "id": 200,
+    "name": "Ywangan Township Hospital",
+    "coordinates": [96.4454170000001, 21.1731350000001],
+    "beds": "25",
+    "state": "Shan (South)",
+    "city": "Ywangan"
+  }
+]
